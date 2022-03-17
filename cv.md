@@ -26,7 +26,30 @@ I'm 24 years old and I was working as a doctor in the past. Now I decide to chan
 
 ## Skills
 
+---
+
 - HTML
 - CSS (BEM)
 - JavaScript(Fundamentals)
 - Git/GitHub
+
+## Code examples
+
+---
+
+```
+popups.forEach((popup) => {
+    popup.addEventListener('mousedown', (evt) => {
+        if (evt.target.classList.contains('popup_opened') || evt.target.classList.contains('popup__close-button')) {
+            closePopup(popup)
+        }
+    })
+```
+
+## Education
+
+---
+
+- BSU Lyceum
+- Belarussian Medical State University
+- Yandex.Practicum (in process)
