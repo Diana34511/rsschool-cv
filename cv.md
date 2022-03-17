@@ -53,3 +53,12 @@ popups.forEach((popup) => {
 - BSU Lyceum
 - Belarussian Medical State University
 - Yandex.Practicum (in process)
+
+## Languages
+
+---
+
+- Russian - native speaker
+- Belarussian - Advanced
+- English - B1-B2
+- Polish - A1
