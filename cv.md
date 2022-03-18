@@ -4,6 +4,8 @@
 
 # Diana Kouxenko
 
+![avatar](https://images.pexels.com/photos/1741205/pexels-photo-1741205.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
+
 ## My Contact Info:
 
 - **Phone:** +48797859436
